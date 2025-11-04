@@ -1,0 +1,25 @@
+Privacy Policy
+
+Last updated: November 2025
+
+This integration app (“the App”) connects Microsoft Teams with Salesforce Agentforce to allow users to access Salesforce data and insights directly within Teams.
+
+Data Collection and Usage:
+
+The App accesses basic user information from Microsoft Teams and Salesforce (for example, user ID, name, and messages related to Salesforce records).
+
+No personal data is permanently stored by the developer. All API requests are processed directly between Microsoft and Salesforce.
+
+Data is used only to enable communication between Teams and Salesforce and is not shared with any third parties.
+
+Data Storage and Security:
+
+No data is stored on external servers.
+
+Microsoft Teams and Salesforce handle all authentication and encryption per their respective security policies.
+
+User Rights:
+If you wish to remove or disconnect the integration, you can do so anytime from Microsoft Teams settings or Salesforce connected apps.
+
+Contact:
+For questions or issues, contact the developer at [your muthukumar@datasirpi.com].
