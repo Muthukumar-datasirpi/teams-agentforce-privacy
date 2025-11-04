@@ -1,0 +1,23 @@
+Terms of Use
+
+Last updated: November 2025
+
+By using this Microsoft Teams integration (“the App”), you agree to the following terms:
+
+Purpose:
+The App allows users to view and interact with Salesforce Agentforce data from Microsoft Teams.
+
+User Responsibility:
+You must have valid access to both Microsoft Teams and Salesforce to use this App. You are responsible for maintaining the confidentiality of your credentials.
+
+Data Handling:
+The App only facilitates communication between Teams and Salesforce. It does not store or sell user data.
+
+Disclaimer:
+The App is provided “as is” without warranty of any kind. The developer is not responsible for any loss or damage arising from its use.
+
+Termination:
+You may stop using the App at any time. The developer may modify or discontinue the App without notice.
+
+Contact:
+For support or inquiries, please contact [your muthukumar@datasirpi.com].
