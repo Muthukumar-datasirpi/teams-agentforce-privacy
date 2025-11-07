@@ -2,7 +2,7 @@ Privacy Policy
 
 Last updated: November 2025
 
-This integration app (“the App”) connects Microsoft Teams with Salesforce Agentforce to allow users to access Salesforce data and insights directly within Teams.
+This integration app (“Agentforce AI”) connects Microsoft Teams with Salesforce Agentforce to allow users to access Salesforce data and insights directly within Teams.
 
 Data Collection and Usage:
 
@@ -22,4 +22,5 @@ User Rights:
 If you wish to remove or disconnect the integration, you can do so anytime from Microsoft Teams settings or Salesforce connected apps.
 
 Contact:
+
 For questions or issues, contact the developer at [your muthukumar@datasirpi.com].
