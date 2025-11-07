@@ -2,7 +2,7 @@ Terms of Use
 
 Last updated: November 2025
 
-By using this Microsoft Teams integration (“the App”), you agree to the following terms:
+By using this Microsoft Teams integration (“Agentforce AI”), you agree to the following terms:
 
 Purpose:
 The App allows users to view and interact with Salesforce Agentforce data from Microsoft Teams.
@@ -20,4 +20,5 @@ Termination:
 You may stop using the App at any time. The developer may modify or discontinue the App without notice.
 
 Contact:
+
 For support or inquiries, please contact [your muthukumar@datasirpi.com].
